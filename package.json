@@ -1,0 +1,25 @@
+{
+  "name": "bower-ui-grid",
+  "version": "1.0.0",
+  "description": "bower-ui-grid with npm support",
+  "main": "ui-grid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DylanWatson/bower-ui-grid.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DylanWatson/bower-ui-grid/issues"
+  },
+  "homepage": "https://github.com/DylanWatson/bower-ui-grid#readme",
+  "dependencies": {
+    "angular": "~1.2.16"
+  },
+  "devDependencies": {
+    "node-gyp": "^4.0.0"
+  }
+}
